@@ -5,6 +5,7 @@ Jurusan: Teknologi Rekayasa Multimedia
 Kelas: 2 D4 TRM A
 
 Tugas Mata Kuliah Workshop Teknologi WEB 
-Materi: Pengenalan HTML
+Pertemuan Kedua > Materi: Pengenalan HTML
+Pertemuan Ketiga > Materi: Instalasi dan Pengenalan Bootstrap
 
 Salam, Arigatou:)
